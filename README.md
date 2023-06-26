@@ -17,12 +17,18 @@ The outcomes of this research have the potential to inform decision-making proce
 
 In conclusion, this research endeavors to harness the power of data analysis to unravel the intricate dynamics of the film industry. By exploring a comprehensive movies dataset, we aim to uncover valuable insights, patterns, and trends that shape the success and popularity of movies. Through this exploration, we hope to contribute to the growing body of knowledge in the field and provide actionable insights for industry stakeholders, ultimately enhancing the cinematic experience for movie lovers worldwide.
 
+## Problem
+Curious about the movie industry's future and the rise of Netflix, I created a dataset analyzing movie revenue, actors, genres, and more. Now, with my expertise, you can ask specific questions and uncover insights about this ever-evolving industry. Let's explore the world of movies together.
+
+### Questions  
+- what are the top 10 Movies with the highest score 
+- Top 10 companies with the highest Gross
+- which company generated the higest profit
+- Does genre have influence on movie score
+- How has the average movie runtime evolved over the years, and are there any trends or shifts in movie duration?
+
+
 ### About the Data
-##### *Context*
-Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset
-focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this
-kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
-movie industry, and get answers.
 Data link https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ##### *Content*
@@ -63,13 +69,6 @@ This data was scraped from IMDb.
 
 ##### *Contribute*
 You can contribute via GitHub.
-
-### Questions  
-- what are the top 10 Movies with the highest score 
-- Top 10 companies with the highest Gross
-- which company generated the higest profit
-- Does genre have influence on movie score
-- How has the average movie runtime evolved over the years, and are there any trends or shifts in movie duration?
 
 ### Hypothesis / Performance Measure
 #### Hypothesis 1:
